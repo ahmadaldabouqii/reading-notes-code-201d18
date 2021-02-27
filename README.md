@@ -7,4 +7,4 @@ I **trained** Here in Amman in a private company As Android Developer..
 
 | The Sections  | Subject       
 | ------------- |:-------------
-| Read: 01      | [Introductory HTML and JavaScript](https://ahmadaldabouqii.github.io/reading-notes/git-github)
+| Read: 01      | [Introductory HTML and JavaScript](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/class-01)
