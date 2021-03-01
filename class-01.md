@@ -448,4 +448,3 @@ To write a **script**, you need to first ***state your goal*** and then list the
 >> ***DESIGN THE SCRIPT:*** To design a script you split the goal out into a series of tasks that are going to be involved in solving this puzzle. This can be represented using a flowchart.
 
 >> ***CODE EACH STEP:*** Each of the steps needs to be written in a programming language that the computer understands. In our case, this is JavaScript.
-
