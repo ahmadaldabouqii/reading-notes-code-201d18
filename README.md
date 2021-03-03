@@ -10,3 +10,4 @@ I **trained** Here in Amman in a private company As Android Developer..
 | Read: 01      | [Introductory HTML and JavaScript](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/class-01)
 | Read: 02      | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/class-02)
 | Read: 03      | [HTML_Lists, CSS_Boxes, JS_Control_Flow](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:03)
+| Read: 04      | [HTML Links, CSS Layout, JS Functions](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:04)
