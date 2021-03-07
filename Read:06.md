@@ -55,4 +55,3 @@ which is a collection of nodes.
 > getElementsByTagName( 'tagName ')
 
 > querySelectorAll ( 'css selector')
-
