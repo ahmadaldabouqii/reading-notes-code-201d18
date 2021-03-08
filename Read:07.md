@@ -184,7 +184,7 @@ any other property of that object.
 attribute has a value of info is
 selected, and the message that
 has been built up to this point is
-written into the page.
+written into the page. 
 
 ![](https://1.bp.blogspot.com/-Z0QnE9eWAnM/XWj6B0TmfmI/AAAAAAAAZps/aRfAU517hg0ovfzgLUTZkmjHD3SXZCoWACLcBGAs/s640/DOM.PNG)
 
