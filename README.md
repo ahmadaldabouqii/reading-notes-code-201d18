@@ -13,3 +13,4 @@ I **trained** Here in Amman in a private company As Android Developer..
 | Read: 04      | [HTML Links, CSS Layout, JS Functions](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:04)
 | Read: 05      | [HTML Images; CSS Color & Text](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:05)
 | Read: 06      | [JS Object Literals; The DOM](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:06)
+| Read: 07      | [Object-Oriented Programming, HTML Tables](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:07)
