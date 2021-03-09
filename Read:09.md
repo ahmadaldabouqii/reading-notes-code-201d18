@@ -196,4 +196,3 @@ that happen on all of the children of an element.
 > The most commonly used events are W3C DOM
 events, although there are others in the HTMLS
 specification as well as browser-specific events. 
-
