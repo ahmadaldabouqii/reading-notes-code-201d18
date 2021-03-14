@@ -51,7 +51,8 @@ using <audio\> tag you can add video to your page also:
 4. Background images can appear just once or be repeated across the background of the box.
 5. You can create image rollover effects by moving the background position of an image.
 
-Value	                 
+## Value
+	                 
 * url('URL')	     >>         The URL to the image. To specify more than one image, separate the URLs with a comma
 * none	      >>      No background image will be displayed. This is default
 * linear-gradient()	>> Sets a linear gradient as the background image. Define at least two colors (top to bottom)
