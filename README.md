@@ -19,3 +19,4 @@ I **trained** Here in Amman in a private company As Android Developer..
 | Read: 10      | [JS Debugging](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:10)
 | Read: 11      | [Audio, Video, Images](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:11)
 | Read: 12      | [Chart.js, Canvas](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:12)
+| Read: 13      | [Local Storage](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:13)
