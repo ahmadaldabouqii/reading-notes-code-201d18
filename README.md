@@ -20,5 +20,5 @@ I **trained** Here in Amman in a private company As Android Developer..
 | Read: 11      | [Audio, Video, Images](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:11)
 | Read: 12      | [Chart.js, Canvas](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:12)
 | Read: 13      | [Local Storage](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:13)
-| Read: 14a     | [Local Storage](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:14a)
-| Read: 14b     | [Local Storage](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:14b)
+| Read: 14a     | [CSS Transforms, Transitions, and Animations](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:14a)
+| Read: 14b     | [What Google Learned About Teams](https://ahmadaldabouqii.github.io/reading-notes-code-201d18/Read:14b)
